@@ -6,4 +6,4 @@ desenvolvimento do algoritmo de ordenação couting sort ou algoritmo de classif
 ![counting-sort gif](https://user-images.githubusercontent.com/90424448/191779671-9212b2be-3095-4682-a283-d0106e419e1f.gif)
 
 * **Referência**<br>
-* <a href="https://www.geeksforgeeks.org/counting-sort/" target="blank">geeksforgeeks<a><br>
+<a href="https://www.geeksforgeeks.org/counting-sort/" target="blank">geeksforgeeks<a><br>
