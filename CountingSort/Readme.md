@@ -1,3 +1,9 @@
-# Counting Sort
-` um algoritmo de classificação que classifica os elementos de uma matriz contando o número de ocorrências de cada elemento exclusivo na matriz. A contagem é armazenada em um array auxiliar e a ordenação é feita mapeando a contagem como um índice do array auxiliar.`
+slide do algoritmo de ordenação
 
+`Counting Sort`
+
+
+
+
+
+[Counting Sort.pptx](https://github.com/senhorN/Counting-Sort/files/9633537/Counting.Sort.pptx)
